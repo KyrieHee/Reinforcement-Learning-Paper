@@ -5,3 +5,5 @@
 * Trust Region Policy Optimization, J. Schulman et al., ICML, 2015. [pdf](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
 * Deep Reinforcement Learning with Double Q-learning, H. van Hasselt et al., arXiv, 2015. [pdf](http://arxiv.org/abs/1509.06461)
 * Prioritized Experience Replay, T. Schaul et al., ICLR, 2016. [pdf](http://arxiv.org/abs/1511.05952)
+* Mastering the game of Go with deep neural networks and tree search, D. Silver et al., Nature, 2016. [pdf](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
+
