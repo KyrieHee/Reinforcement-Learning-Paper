@@ -3,3 +3,4 @@
 * Human-level control through deep reinforcement learning, V. Mnih et al., Nature, 2015. [pdf](https://www.nature.com/articles/nature14236) 
 * Deterministic Policy Gradient Algorithms, D. Silver et al., ICML, 2015. [pdf](http://jmlr.org/proceedings/papers/v32/silver14.pdf)
 * Trust Region Policy Optimization, J. Schulman et al., ICML, 2015. [pdf](http://jmlr.org/proceedings/papers/v37/schulman15.pdf)
+* Deep Reinforcement Learning with Double Q-learning, H. van Hasselt et al., arXiv, 2015. [pdf](http://arxiv.org/abs/1509.06461)
