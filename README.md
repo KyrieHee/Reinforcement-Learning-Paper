@@ -6,4 +6,5 @@
 * Deep Reinforcement Learning with Double Q-learning, H. van Hasselt et al., arXiv, 2015. [pdf](http://arxiv.org/abs/1509.06461)
 * Prioritized Experience Replay, T. Schaul et al., ICLR, 2016. [pdf](http://arxiv.org/abs/1511.05952)
 * Mastering the game of Go with deep neural networks and tree search, D. Silver et al., Nature, 2016. [pdf](http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html)
+* Dueling Network Architectures for Deep Reinforcement Learning, Z. Wang et al., arXiv, 2015. [pdf](https://arxiv.org/pdf/1511.06581.pdf)
 
